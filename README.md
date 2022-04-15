@@ -16,14 +16,12 @@
     - [R 4.4.1](https://cran.r-project.org/) or [Rstudio](https://www.rstudio.com/)
         - [rrBLUP](https://cran.r-project.org/web/packages/rrBLUP/index.html) and [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html)
 
-
 ## Input Data
 
 - Traits record: `1Sorghum/Traits_record.txt` or `2Idaho/Traits_record.txt`
 - Cultural information: `1Sorghum/Env_meta_table.txt` or `2Idaho/Env_meta_table.txt`
 - daily weather profile for each environment under `1Sorghum/dailyEnv/` or `2Idaho/dailyEnv/`
 - SNP file: `1Sorghum/Genotype.txt/`
-
 
 ## Major steps
 
